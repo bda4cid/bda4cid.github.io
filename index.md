@@ -2,15 +2,17 @@
 layout: default
 ---
 
-# Introduction
+# BDA4CID
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Introduction
 
-## Header 2
+Cyber-attacks have posed real and wide-ranging threats for the information society. Detecting cyber-attacks becomes a challenge, not only because of the sophistication of attacks, but also because of the large scale and complex nature of today’s IT infrastructures.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+When significant amounts of data is collected from computer systems operations and monitoring, data science and intelligent advanced analytics are necessary to correlate, learn and mine, interpret and visualize such data. To mitigate existing cyber threats, it is important that cyber-attack detection and security analysis take advantage of data science and advanced analytics. Big data provides a systemic approach, from capturing of IT operation data, through data processing and event correlation, to anomaly detection and response decision.
+
+This Workshop will focus on the cutting-edge developments from both academia and industry, with a particular emphasis on novel techniques to capture, store and process the big-data from a wide range of sources in monitoring IT infrastructures, and in particular on the methodologies and technologies which can be applied to correlate, learn and mine, interpret and visualize the cyber security data.
+
+This workshop is timely and interesting for researchers, academics and practitioners in big data processing and analytics, cyber security, cyber defense, security analytics, data mining and machine learning of security data, security information and event management, along with anomaly detection. The workshop is very relevant to the big data community, especially data mining, machine learning, cycler physical systems, computational intelligence, and will bring forth a lively forum on this exciting and challenging area at the conference.
 
 ### Header 3
 
