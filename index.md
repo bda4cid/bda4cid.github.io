@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+BDA4CID 2019
 ## 3<sup>rd</sup> International Workshop on Big Data Analytics for Cyber Intelligence and Defense
 ### A Workshop at 2019 IEEE International Conference on Big Data [http://cci.drexel.edu/bigdata/bigdata2019/CallPapers.html](IEEE Big Data 2018)
 December 9-12, 2019, Los Angeles, CA, USA
