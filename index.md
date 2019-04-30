@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# BDA4CID
-
 ## Introduction
 
 Cyber-attacks have posed real and wide-ranging threats for the information society. Detecting cyber-attacks becomes a challenge, not only because of the sophistication of attacks, but also because of the large scale and complex nature of today’s IT infrastructures.
@@ -40,34 +38,39 @@ Cyber security analytics
 * Stream mining / analytics for cyber intelligence and r security
 * Vulnerability analysis and modelling
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Social media analytics
+* Fake news detection in social media networks
+* Natural language processing for social media data analysis
+* Opinion mining in social media networks
+* Sentiment analysis in social media networks
+* Security and privacy issues in social media networks
+* Social media data mining
+* Text mining / machine learning for social media data analysis
+* Web bots and big data processing for social media networks
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+To contribute towards advances of knowledge, the workshop solicits original manuscripts from researchers and practitioners who are actively working in Big Data Analytics for Cyber Intelligence and Defense.
 
-#### Header 4
+Submission webpage
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+Each submission will be peer reviewed by 3 TC members.
 
-##### Header 5
+Important Dates
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+Oct 10, 2018:                    Due date for full workshop papers submission
+Nov 1, 2018:           Notification of paper acceptance to authors
+Nov 15, 2018:                   Camera-ready of accepted papers
+Dec 10-13   2018:     Workshops
 
-###### Header 6
+Workshop Program Co-Chairs
+
+Dr Stephen McGough
+Senior Lecturer
+School of Computing Science
+Newcastle University
+United Kingdom
+E-mail
+
+International Technical Committee
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
