@@ -14,7 +14,31 @@ This Workshop will focus on the cutting-edge developments from both academia and
 
 This workshop is timely and interesting for researchers, academics and practitioners in big data processing and analytics, cyber security, cyber defense, security analytics, data mining and machine learning of security data, security information and event management, along with anomaly detection. The workshop is very relevant to the big data community, especially data mining, machine learning, cycler physical systems, computational intelligence, and will bring forth a lively forum on this exciting and challenging area at the conference.
 
-### Header 3
+The 2017 International Workshop on Big Data Analytics for Cyber Intelligence and Defense (BDA4CID 2017) at last year’s IEEE Big Data 2017 Conference at Boston, USA, was a great success and had attracted very positive responses from the authors and the audience. We believe the BDA4CID 2018 will continue and gain even greater success.
+
+## Research Topics
+
+The workshop only considers well-written manuscripts that describe original, unpublished, state-of-the-art research and practical work. Indicative topics for the workshop are as follows.
+
+Cyber security analytics
+* Big data analytics (e.g., text/graph/pattern mining) for cyber intelligence
+* Big data analytics (e.g., text/graph/pattern mining) for cyber security
+* Big data intelligence for combating advanced persistent threats (APT)
+* Big data for cyber intelligence and cyber situational awareness
+* Big data processing platforms for cyber security and defense
+* Cyber security analytics for cloud computing
+* Cyber security visualization
+* Cyber threat intelligence and modeling
+* Cyber defense/security operations centers
+* Log management for cyber security analytics
+* Machine learning / deep learning for cyber threat and security
+* Next-generation Security Information and Event Management (SIEM)
+* Next-generation intrusion detection/prevention systems (IDS/IPS)
+* Real-time event correlation for cyber security analytics
+* Real-time monitoring of computer and network systems
+* Security incident management for cyber security analytics
+* Stream mining / analytics for cyber intelligence and r security
+* Vulnerability analysis and modelling
 
 ```js
 // Javascript code with syntax highlighting.
