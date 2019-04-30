@@ -2,7 +2,9 @@
 layout: default
 ---
 
-## Introduction
+## 3<sup>rd</sup> International Workshop on Big Data Analytics for Cyber Intelligence and Defense
+### A Workshop at 2019 IEEE International Conference on Big Data [http://cci.drexel.edu/bigdata/bigdata2019/CallPapers.html](IEEE Big Data 2018)
+December 9-12, 2019, Los Angeles, CA, USA
 
 Cyber-attacks have posed real and wide-ranging threats for the information society. Detecting cyber-attacks becomes a challenge, not only because of the sophistication of attacks, but also because of the large scale and complex nature of today’s IT infrastructures.
 
