@@ -71,12 +71,13 @@ Please note that the authors of each submitted paper will be expected to review 
 
 ### Workshop Program Co-Chairs
 
-Dr Stephen McGough
-Senior Lecturer
-School of Computing Science
-Newcastle University
-United Kingdom
-E-mail
+Dr Stephen McGough  
+Senior Lecturer  
+School of Computing Science  
+Newcastle University  
+United Kingdom  
+E-mail : stephen.mcgough@newcastle.ac.uk
 
-International Technical Committee
+### International Technical Committee
 
+To be announced.
