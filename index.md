@@ -13,7 +13,7 @@ This Workshop will focus on the cutting-edge developments from both academia and
 
 This workshop is timely and interesting for researchers, academics and practitioners in big data processing and analytics, cyber security, cyber defense, security analytics, data mining and machine learning of security data, security information and event management, along with anomaly detection. The workshop is very relevant to the big data community, especially data mining, machine learning, cycler physical systems, computational intelligence, and will bring forth a lively forum on this exciting and challenging area at the conference.
 
-The 2017 International Workshop on Big Data Analytics for Cyber Intelligence and Defense (BDA4CID 2017) at last year’s IEEE Big Data 2017 Conference at Boston, USA, was a great success and had attracted very positive responses from the authors and the audience. We believe the BDA4CID 2018 will continue and gain even greater success.
+[Previous workshops](Previous)
 
 ## Research Topics
 
