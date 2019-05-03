@@ -65,11 +65,9 @@ Please note that the authors of each submitted paper will be expected to review 
 
 |-------|-------------------|
 | Oct 1, 2019 | Due date for full workshop papers submission |
-Nov 1, 2019:
-Nov 15, 2019:
-Dec 9-12 2019:
- Notification of paper acceptance to authors Camera-ready of accepted papers
-Workshop
+| Nov 1, 2019 |  Notification of paper acceptance to authors |
+| Nov 15, 2019 | Camera-ready of accepted papers |
+| Dec 9-12 2019 | Workshop - one of the days |
 
 ### Workshop Program Co-Chairs
 
