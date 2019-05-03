@@ -51,18 +51,27 @@ Social media analytics
 
 To contribute towards advances of knowledge, the workshop solicits original manuscripts from researchers and practitioners who are actively working in Big Data Analytics for Cyber Intelligence and Defense.
 
-Submission webpage
+### Submission webpage
 
-Each submission will be peer reviewed by 3 TC members.
+Please check back shortly for the submission page.
 
-Important Dates
+### Review Process
 
-Oct 10, 2018:                    Due date for full workshop papers submission
-Nov 1, 2018:           Notification of paper acceptance to authors
-Nov 15, 2018:                   Camera-ready of accepted papers
-Dec 10-13   2018:     Workshops
+Each submission will be peer reviewed by at least 2 peers.
 
-Workshop Program Co-Chairs
+Please note that the authors of each submitted paper will be expected to review one other paper.
+
+### Important Dates
+
+|-------|-------------------|
+| Oct 1, 2019 | Due date for full workshop papers submission |
+Nov 1, 2019:
+Nov 15, 2019:
+Dec 9-12 2019:
+ Notification of paper acceptance to authors Camera-ready of accepted papers
+Workshop
+
+### Workshop Program Co-Chairs
 
 Dr Stephen McGough
 Senior Lecturer
