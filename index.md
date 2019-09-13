@@ -51,6 +51,15 @@ Social media analytics
 
 To contribute towards advances of knowledge, the workshop solicits original manuscripts from researchers and practitioners who are actively working in Big Data Analytics for Cyber Intelligence and Defense.
 
+### Paper Format
+
+Papers should be formatted using the two column IEEE CS template and can be up to 10 pages in length using page size of 8.5" x 11".
+
+Formatting templates:
+ * Word [Doc File](http://bigdataieee.org/BigData2019/files/Conference-template-letter.doc)
+ * [PDF](http://bigdataieee.org/BigData2019/files/IEEEtran_HOWTO.pdf) example
+ * [LaTeX](http://bigdataieee.org/BigData2019/files/Conference-LaTeX-template_7-9-18.zip) templates
+
 ### Submission webpage
 
 Please check back shortly for the submission page.
