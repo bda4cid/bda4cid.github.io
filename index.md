@@ -5,6 +5,8 @@ layout: default
 ### A Workshop at 2019 IEEE International Conference on Big Data [(IEEE Big Data 2018)](http://cci.drexel.edu/bigdata/bigdata2019)
 December 9-12, 2019, Los Angeles, CA, USA
 
+### <span style="color:red">Submission Deadline extended to 15th October 2019</span>
+
 Cyber-attacks have posed real and wide-ranging threats for the information society. Detecting cyber-attacks becomes a challenge, not only because of the sophistication of attacks, but also because of the large scale and complex nature of today’s IT infrastructures.
 
 When significant amounts of data is collected from computer systems operations and monitoring, data science and intelligent advanced analytics are necessary to correlate, learn and mine, interpret and visualize such data. To mitigate existing cyber threats, it is important that cyber-attack detection and security analysis take advantage of data science and advanced analytics. Big data provides a systemic approach, from capturing of IT operation data, through data processing and event correlation, to anomaly detection and response decision.
