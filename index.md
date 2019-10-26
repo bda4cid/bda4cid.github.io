@@ -5,7 +5,7 @@ layout: default
 ### A Workshop at 2019 IEEE International Conference on Big Data [(IEEE Big Data 2018)](http://cci.drexel.edu/bigdata/bigdata2019)
 December 9-12, 2019, Los Angeles, CA, USA
 
-<span style="color:red">Submission Deadline extended to 15th October 2019</span>
+<span style="color:red">Submission Deadline extended please contact Chairs if you want to submit</span>
 
 Cyber-attacks have posed real and wide-ranging threats for the information society. Detecting cyber-attacks becomes a challenge, not only because of the sophistication of attacks, but also because of the large scale and complex nature of today’s IT infrastructures.
 
@@ -75,9 +75,9 @@ Please note that the authors of each submitted paper will be expected to review 
 ### Important Dates
 
 |-------|-------------------|
-| ~~Oct 1, 2019~~ Oct 15, 2019 | Due date for full workshop papers submission |
+| Contact Chairs | Due date for full workshop papers submission |
 | Nov 1, 2019 |  Notification of paper acceptance to authors |
-| Nov 15, 2019 | Camera-ready of accepted papers |
+| Nov 20, 2019 | Camera-ready of accepted papers |
 | Dec 9-12 2019 | Workshop - one of the days |
 
 ### Workshop Program Co-Chairs
