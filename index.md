@@ -109,4 +109,13 @@ E-mail : stephen.mcgough@newcastle.ac.uk
 
 ### International Technical Committee
 
-To be announced.
+|--|--|
+| Amir Atapour-Abarghouei | Newcastle University, UK |
+| William Blanc | Florida Polytechnic University, USA |
+| Stephen Bonner | Newcastle University, UK |
+| Johan Fernquist | Swedish Defence Research Agency, Sweden |
+| Matthew Forshaw | Newcastle University, UK |
+| Phil Jackson | Newcastle University, UK |
+| Amirreza Niakanlahiji | University of Illinois at Springfield, USA |
+| Nik Khadijah Nik Aznan | Durham University, UK |
+
