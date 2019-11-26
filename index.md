@@ -25,8 +25,7 @@ December 9, 2019, Los Angeles, CA, USA
 | 5:30 – 6:00pm | Volenti non fit injuria: Ransomware and its Victims | Amir Atapour-Abarghouei, Stephen Bonner and Andrew Stephen McGough |
 | 6:00 pm | Closing Remarks ||
 
-
-## Outline
+## Outline
 
 Cyber-attacks have posed real and wide-ranging threats for the information society. Detecting cyber-attacks becomes a challenge, not only because of the sophistication of attacks, but also because of the large scale and complex nature of today’s IT infrastructures.
 
