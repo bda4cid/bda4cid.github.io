@@ -21,7 +21,7 @@ December 9, 2019, Los Angeles, CA, USA
 | 4:30 – 5:00pm | Class Balancing for Fraud Detection in Point of Sale Systems | **Christine Hines** and Abdou Youssef |
 | 5:00 – 5:30pm | Identifying Android Malware Families Using Android-Oriented Metrics | **William Blanc**, Lina G. Hashem, Karim O. Elish, and Hussain M. J. Almohri | 
 | 5:30 – 6:00pm | Volenti non fit injuria: Ransomware and its Victims | Amir Atapour-Abarghouei, Stephen Bonner and Andrew Stephen McGough |
-| 6:00 pm | <td colspan=2>Closing Remarks |
+| 6:00 pm | Closing Remarks |
 
 ## Outline
 
