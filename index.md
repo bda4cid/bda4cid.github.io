@@ -9,9 +9,8 @@ December 9, 2019, Los Angeles, CA, USA
 
 ## Tentative workshop programme 
 
-|  |  |  |
 |----|:--:|-----|
-|| *3rd International Workshop on Big Data Analytics for Cyber Intelligence and Defense (BDA4CID)* || 
+|| **3rd International Workshop on Big Data Analytics for Cyber Intelligence and Defense (BDA4CID)** || 
 || WorkshopChairs: Stephen McGough ||
 | Time | Title | Presenter/Author |
 | 1:30 – 1:40 pm | Arrivals and welcome | Stephen McGough |
@@ -25,7 +24,6 @@ December 9, 2019, Los Angeles, CA, USA
 | 5:00 – 5:30pm | Identifying Android Malware Families Using Android-Oriented Metrics | **William Blanc**, Lina G. Hashem, Karim O. Elish, and Hussain M. J. Almohri | 
 | 5:30 – 6:00pm | Volenti non fit injuria: Ransomware and its Victims | Amir Atapour-Abarghouei, Stephen Bonner and Andrew Stephen McGough |
 | 6:00 pm | Closing Remarks ||
-| | | | 
 
 
 ## Outline
