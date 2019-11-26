@@ -9,10 +9,8 @@ December 9, 2019, Los Angeles, CA, USA
 
 ## Tentative workshop programme 
 
-|----|:--:|-----|
-|| **3rd International Workshop on Big Data Analytics for Cyber Intelligence and Defense (BDA4CID)** || 
-|| WorkshopChairs: Stephen McGough ||
 | Time | Title | Presenter/Author |
+|----|:--:|-----|
 | 1:30 – 1:40 pm | Arrivals and welcome | Stephen McGough |
 | 1:40 – 2:10pm  | A Location Independent Machine Learning Approach for Early Fake News Detection | **Haohui Liu** |
 | 2:10 – 2:40pm | IoCMiner: Automatic Extraction of Indicators of Compromise from Twitter | **Amirreza Niakanlahiji**, Lida Safarnejad, Reginald Harper and Bei-Tseng Chu |
@@ -23,7 +21,7 @@ December 9, 2019, Los Angeles, CA, USA
 | 4:30 – 5:00pm | Class Balancing for Fraud Detection in Point of Sale Systems | **Christine Hines** and Abdou Youssef |
 | 5:00 – 5:30pm | Identifying Android Malware Families Using Android-Oriented Metrics | **William Blanc**, Lina G. Hashem, Karim O. Elish, and Hussain M. J. Almohri | 
 | 5:30 – 6:00pm | Volenti non fit injuria: Ransomware and its Victims | Amir Atapour-Abarghouei, Stephen Bonner and Andrew Stephen McGough |
-| 6:00 pm | Closing Remarks ||
+| 6:00 pm | <td colspan=2>Closing Remarks |
 
 ## Outline
 
