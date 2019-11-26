@@ -16,12 +16,12 @@ December 9, 2019, Los Angeles, CA, USA
 | 2:10 – 2:40pm | IoCMiner: Automatic Extraction of Indicators of Compromise from Twitter | **Amirreza Niakanlahiji**, Lida Safarnejad, Reginald Harper and Bei-Tseng Chu |
 | 2:40 – 3:10 pm | Online Hate: A Study on the Feasibility to Detect Hate Speech in Swedish | **Johan Fernquist**, Oskar Lindholm, Lisa Kaati and Nazar Akrami |
 | 3:10 – 3:40pm | PRAT - a Tool for Assessing Risk in Written Communication | **Amendra Shrestha**, Lisa Kaati and Nazar Akrami| 
-| 3:40 – 4:00 pm | Coffee Break ||
+| 3:40 – 4:00 pm | **Coffee Break** ||
 | 4:00 – 4:30pm | Modeling and Forecasting Armed Conflict: AutoML with Human-Guided Machine Learning | Vito D’Orazio, James Honaker, Raman Prasad, **Michael Shoemate** |
 | 4:30 – 5:00pm | Class Balancing for Fraud Detection in Point of Sale Systems | **Christine Hines** and Abdou Youssef |
 | 5:00 – 5:30pm | Identifying Android Malware Families Using Android-Oriented Metrics | **William Blanc**, Lina G. Hashem, Karim O. Elish, and Hussain M. J. Almohri | 
 | 5:30 – 6:00pm | Volenti non fit injuria: Ransomware and its Victims | Amir Atapour-Abarghouei, Stephen Bonner and Andrew Stephen McGough |
-| 6:00 pm | Closing Remarks |
+| 6:00 pm | **Closing Remarks** |
 
 ## Outline
 
