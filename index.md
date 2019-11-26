@@ -3,9 +3,32 @@ layout: default
 ---
 ## BDA4CID 2019 
 ### A Workshop at 2019 IEEE International Conference on Big Data [(IEEE Big Data 2018)](http://cci.drexel.edu/bigdata/bigdata2019)
-December 9-12, 2019, Los Angeles, CA, USA
+December 9, 2019, Los Angeles, CA, USA
 
-<span style="color:red">Submission Deadline extended to 10th November 2019</span>
+## 1:30 - 6pm Monday 9th December 2019
+
+## Tentative workshop programme 
+
+|  |  |  |
+|----|:--:|-----|
+|| *3rd International Workshop on Big Data Analytics for Cyber Intelligence and Defense (BDA4CID)* || 
+|| WorkshopChairs: Stephen McGough ||
+| Time | Title | Presenter/Author |
+| 1:30 – 1:40 pm | Arrivals and welcome | Stephen McGough |
+| 1:40 – 2:10pm  | A Location Independent Machine Learning Approach for Early Fake News Detection | **Haohui Liu** |
+| 2:10 – 2:40pm | IoCMiner: Automatic Extraction of Indicators of Compromise from Twitter | **Amirreza Niakanlahiji**, Lida Safarnejad, Reginald Harper and Bei-Tseng Chu |
+| 2:40 – 3:10 pm | Online Hate: A Study on the Feasibility to Detect Hate Speech in Swedish | **Johan Fernquist**, Oskar Lindholm, Lisa Kaati and Nazar Akrami |
+| 3:10 – 3:40pm | PRAT - a Tool for Assessing Risk in Written Communication | **Amendra Shrestha**, Lisa Kaati and Nazar Akrami| 
+| 3:40 – 4:00 pm | Coffee Break ||
+| 4:00 – 4:30pm | Modeling and Forecasting Armed Conflict: AutoML with Human-Guided Machine Learning | Vito D’Orazio, James Honaker, Raman Prasad, **Michael Shoemate** |
+| 4:30 – 5:00pm | Class Balancing for Fraud Detection in Point of Sale Systems | **Christine Hines** and Abdou Youssef |
+| 5:00 – 5:30pm | Identifying Android Malware Families Using Android-Oriented Metrics | **William Blanc**, Lina G. Hashem, Karim O. Elish, and Hussain M. J. Almohri | 
+| 5:30 – 6:00pm | Volenti non fit injuria: Ransomware and its Victims | Amir Atapour-Abarghouei, Stephen Bonner and Andrew Stephen McGough |
+| 6:00 pm | Closing Remarks ||
+| | | | 
+
+
+## Outline
 
 Cyber-attacks have posed real and wide-ranging threats for the information society. Detecting cyber-attacks becomes a challenge, not only because of the sophistication of attacks, but also because of the large scale and complex nature of today’s IT infrastructures.
 
@@ -78,7 +101,7 @@ Please note that the authors of each submitted paper will be expected to review 
 | Nov 10, 2019 | Due date for full workshop papers submission |
 | Nov 1, 2019 |  Notification of paper acceptance to authors |
 | Nov 20, 2019 | Camera-ready of accepted papers |
-| Dec 9-12 2019 | Workshop - one of the days |
+| Dec 9 PM 2019 | Workshop - half day afternoon |
 
 ### Workshop Program Co-Chairs
 
