@@ -9,7 +9,8 @@ December 10-13 TBC, 2020, Atlanta, GA, USA
 
 [//]: # (## Tentative workshop programme)
 
-[//]: # (| Time | Title | Presenter/Author |
+[//]: # (
+    | Time | Title | Presenter/Author |
 |----|:--:|-----|
 | 1:30 – 1:40 pm | Arrivals and welcome | Stephen McGough |
 | 1:40 – 2:10pm  | A Location Independent Machine Learning Approach for Early Fake News Detection | **Haohui Liu** |
@@ -24,7 +25,8 @@ December 10-13 TBC, 2020, Atlanta, GA, USA
 | 6:00 – 6:00pm | **BigData Cup Challenge Papers** ||
 | 6:00 – 6:30pm | Anuj@IEEE BigData2019: A Novel Code-Switching Behavior Analysis in Social Media Discussions Natural Language Processing | Anuj/Anuj Saini, Publicis Sapient |
 | 6:30 - 7:00pm | Language Identification and Context-based Analysis of Code-switching Behaviors in Social Media Discussions | Yashvardhan/Akankshya Mishra & Yashvardhan Sharma |
-| 7:00 - 7:00pm | **Closing Remarks** ||)
+| 7:00 - 7:00pm | **Closing Remarks** ||
+)
 
 
 ## Outline
