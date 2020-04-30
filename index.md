@@ -9,8 +9,10 @@ December 10-13 TBC, 2020, Atlanta, GA, USA
 
 [//]: # (## Tentative workshop programme)
 
+<!--
 [//]: # (
-    | Time | Title | Presenter/Author |
+
+| Time | Title | Presenter/Author |
 |----|:--:|-----|
 | 1:30 – 1:40 pm | Arrivals and welcome | Stephen McGough |
 | 1:40 – 2:10pm  | A Location Independent Machine Learning Approach for Early Fake News Detection | **Haohui Liu** |
@@ -27,7 +29,7 @@ December 10-13 TBC, 2020, Atlanta, GA, USA
 | 6:30 - 7:00pm | Language Identification and Context-based Analysis of Code-switching Behaviors in Social Media Discussions | Yashvardhan/Akankshya Mishra & Yashvardhan Sharma |
 | 7:00 - 7:00pm | **Closing Remarks** ||
 )
-
+-->
 
 ## Outline
 
@@ -89,6 +91,7 @@ Formatting templates:
 ### Submission webpage
 
 Please submit your paper through the paper submission portal TBA.
+
 [//]: # ([paper submission portal](https://wi-lab.com/cyberchair/2019/bigdata19/scripts/submit.php?subarea=S27&undisplay_detail=1&wh=/cyberchair/2019/bigdata19/scripts/ws_submit.php).)
 
 ### Review Process
