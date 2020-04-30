@@ -1,15 +1,15 @@
 ---
 layout: default
 ---
-## BDA4CID 2019 
-### A Workshop at 2019 IEEE International Conference on Big Data [(IEEE Big Data 2018)](http://cci.drexel.edu/bigdata/bigdata2019)
-December 9, 2019, Los Angeles, CA, USA
+## BDA4CID 2020 
+### A Workshop at 2020 IEEE International Conference on Big Data [(IEEE Big Data 2020)](http://bigdataieee.org/BigData2020/)
+December 10-13 TBC, 2020, Atlanta, GA, USA
 
-## 1:30 - 6pm Monday 9th December 2019
+[//]: # (## 1:30 - 6pm Monday 9th December 2019)
 
-## Tentative workshop programme 
+[//]: # (## Tentative workshop programme)
 
-| Time | Title | Presenter/Author |
+[//]: # (| Time | Title | Presenter/Author |
 |----|:--:|-----|
 | 1:30 – 1:40 pm | Arrivals and welcome | Stephen McGough |
 | 1:40 – 2:10pm  | A Location Independent Machine Learning Approach for Early Fake News Detection | **Haohui Liu** |
@@ -24,7 +24,7 @@ December 9, 2019, Los Angeles, CA, USA
 | 6:00 – 6:00pm | **BigData Cup Challenge Papers** ||
 | 6:00 – 6:30pm | Anuj@IEEE BigData2019: A Novel Code-Switching Behavior Analysis in Social Media Discussions Natural Language Processing | Anuj/Anuj Saini, Publicis Sapient |
 | 6:30 - 7:00pm | Language Identification and Context-based Analysis of Code-switching Behaviors in Social Media Discussions | Yashvardhan/Akankshya Mishra & Yashvardhan Sharma |
-| 7:00 - 7:00pm | **Closing Remarks** ||
+| 7:00 - 7:00pm | **Closing Remarks** ||)
 
 
 ## Outline
@@ -86,7 +86,8 @@ Formatting templates:
 
 ### Submission webpage
 
-Please submit your paper through the [paper submission portal](https://wi-lab.com/cyberchair/2019/bigdata19/scripts/submit.php?subarea=S27&undisplay_detail=1&wh=/cyberchair/2019/bigdata19/scripts/ws_submit.php).
+Please submit your paper through the paper submission portal TBA.
+[//]: # ([paper submission portal](https://wi-lab.com/cyberchair/2019/bigdata19/scripts/submit.php?subarea=S27&undisplay_detail=1&wh=/cyberchair/2019/bigdata19/scripts/ws_submit.php).)
 
 ### Review Process
 
@@ -94,13 +95,13 @@ Each submission will be peer reviewed by at least 2 peers.
 
 Please note that the authors of each submitted paper will be expected to review one other paper.
 
-### Important Dates
+### Important Dates (TBC)
 
 |-------|-------------------|
-| Nov 10, 2019 | Due date for full workshop papers submission |
-| Nov 1, 2019 |  Notification of paper acceptance to authors |
-| Nov 20, 2019 | Camera-ready of accepted papers |
-| Dec 9 PM 2019 | Workshop - half day afternoon |
+| Oct 1, 2020 | Due date for full workshop papers submission |
+| Nov 1, 2020 |  Notification of paper acceptance to authors |
+| Nov 15, 2019 | Camera-ready of accepted papers |
+| Dec 10-13 2019 | Workshop |
 
 ### Workshop Program Co-Chairs
 
@@ -111,12 +112,24 @@ Newcastle University
 United Kingdom  
 E-mail : stephen.mcgough@newcastle.ac.uk
 
+Dr Amir Atapour-Abarghouei
+Researcher
+School of Computing Science  
+Newcastle University  
+United Kingdom  
+E-mail : Amir.Atapour-Abarghouei@newcastle.ac.uk
+
+Stephen Bonner
+Researcher
+School of Computing Science  
+Newcastle University  
+United Kingdom  
+E-mail : stephen.bonner3@newcastle.ac.uk
+
 ### International Technical Committee
 
 |--|--|
-| Amir Atapour-Abarghouei | Newcastle University, UK |
 | William Blanc | Florida Polytechnic University, USA |
-| Stephen Bonner | Newcastle University, UK |
 | Johan Fernquist | Swedish Defence Research Agency, Sweden |
 | Matthew Forshaw | Newcastle University, UK |
 | Phil Jackson | Newcastle University, UK |
