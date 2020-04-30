@@ -117,14 +117,14 @@ Newcastle University
 United Kingdom  
 E-mail : stephen.mcgough@newcastle.ac.uk
 
-Dr Amir Atapour-Abarghouei
+Dr Amir Atapour-Abarghouei   
 Researcher
 School of Computing Science  
 Newcastle University  
 United Kingdom  
 E-mail : Amir.Atapour-Abarghouei@newcastle.ac.uk
 
-Stephen Bonner
+Stephen Bonner   
 Researcher
 School of Computing Science  
 Newcastle University  
