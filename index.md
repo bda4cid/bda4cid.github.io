@@ -81,7 +81,7 @@ To contribute towards advances of knowledge, the workshop solicits original manu
 
 ### Paper Format
 
-Papers should be formatted using the two column IEEE CS template and can be up to 10 pages in length using page size of 8.5" x 11".
+Papers should be formatted using the two column IEEE CS template and can be up to 10 pages (including references) in length using page size of 8.5" x 11".
 
 Formatting templates:
  * Word [Doc File](http://bigdataieee.org/BigData2019/files/Conference-template-letter.doc)
@@ -105,8 +105,8 @@ Please note that the authors of each submitted paper will be expected to review 
 |-------|-------------------|
 | Oct 1, 2020 | Due date for full workshop papers submission |
 | Nov 1, 2020 |  Notification of paper acceptance to authors |
-| Nov 15, 2019 | Camera-ready of accepted papers |
-| Dec 10-13 2019 | Workshop |
+| Nov 15,2020 | Camera-ready of accepted papers |
+| Dec 10-13 2020 | Workshop |
 
 ### Workshop Program Co-Chairs
 
