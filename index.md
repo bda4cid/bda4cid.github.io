@@ -91,6 +91,7 @@ Formatting templates:
 ### Submission webpage
 
 Please submit your paper through the ([paper submission portal](https://wi-lab.com/cyberchair/2020/bigdata20/index.php).) 
+
 [//]: # ([paper submission portal](https://wi-lab.com/cyberchair/2019/bigdata19/scripts/submit.php?subarea=S27&undisplay_detail=1&wh=/cyberchair/2019/bigdata19/scripts/ws_submit.php).)
 
 ### Review Process
