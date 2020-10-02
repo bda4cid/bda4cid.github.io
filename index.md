@@ -1,9 +1,10 @@
 ---
 layout: default
 ---
+## BDA4CID 2020 
+
 ## Paper submission deadline extended to: 26th October 2020
 
-## BDA4CID 2020 
 ### A Workshop at 2020 IEEE International Conference on Big Data [(IEEE Big Data 2020)](http://bigdataieee.org/BigData2020/)
 December 10-13 TBC, 2020, Virtual
 
