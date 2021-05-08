@@ -1,24 +1,22 @@
 ---
 layout: default
 ---
-## BDA4CID 2020 
+## BDA4CID 2021 
 
-## Paper submission deadline extended to: 26th October 2020
-
-### A Workshop at 2020 IEEE International Conference on Big Data [(IEEE Big Data 2020)](http://bigdataieee.org/BigData2020/)
-December 11th, 2020, 10:45-12:35 (EST)  Virtual
+### A Workshop at 2021 IEEE International Conference on Big Data [(IEEE Big Data 2021)](http://bigdataieee.org/BigData2021/)
+December 15th-18th, 2021, Orlando, FL, USA
 
 [//]: # (## 1:30 - 6pm Monday 9th December 2019)
 
 [//]: # (## Tentative workshop programme)
 
-| Time | Title | Presenter/Author |
-|----|:--:|-----|
-| 10:45 – 10:50am | Arrivals and welcome | Stephen McGough |
-| 10:50 – 11:20am  | S34201: FlightSense: A Spoofer Detection and Aircraft Identification System using Raw ADS-B Data | Nikita Joseph, Chaity Banerjee, Eduardo Pasiliao, and Tathagata Mukherjee |
-| 11:20 – 11:50am | S34202: Rumor Detection on Social Networks: A Sociological Approach | Neelam Jogalekar, Vahida Attar, and Girish Palshikar |
-| 11:50 – 12:20pm | S34203: Resolving the cybersecurity Data Sharing Paradox to scale up cybersecurity via a co-production approach towards data sharing | Amir Atapour-Abarghouei, Stephen McGough, and David Wall |
-| 12:20 – 12:35pm | BDA4CID Workshop Closing Remarks | Stephen McGough | 
+[//]: # (## | Time | Title | Presenter/Author |)
+[//]: # (## |----|:--:|-----|)
+[//]: # (## | 10:45 – 10:50am | Arrivals and welcome | Stephen McGough |
+| 10:50 – 11:20am  | S34201: FlightSense: A Spoofer Detection and Aircraft Identification System using Raw ADS-B Data | Nikita Joseph, Chaity Banerjee, Eduardo Pasiliao, and Tathagata Mukherjee |)
+[//]: # (## | 11:20 – 11:50am | S34202: Rumor Detection on Social Networks: A Sociological Approach | Neelam Jogalekar, Vahida Attar, and Girish Palshikar |)
+[//]: # (## | 11:50 – 12:20pm | S34203: Resolving the cybersecurity Data Sharing Paradox to scale up cybersecurity via a co-production approach towards data sharing | Amir Atapour-Abarghouei, Stephen McGough, and David Wall |)
+[//]: # (## | 12:20 – 12:35pm | BDA4CID Workshop Closing Remarks | Stephen McGough | )
 
 ## Outline
 
@@ -66,6 +64,13 @@ Social media analytics
 * Text mining / machine learning for social media data analysis
 * Web bots and big data processing for social media networks
 
+This year we are seeking papers which address the cybersecurity ‘data sharing paradox’ where organisations (including businesses, NGOs and government bodies) who possess datasets that could aid the development of better cyber-security are either unwilling, feel unable or are unable to share their data with others to solve the common problem. Papers could cover (but not limited to):
+* Best practices in sharing data between companies and researchers
+* Data schemas and structures to better enable sharing and multi-purpose usability
+* New datasets for cyber-intelligence and defense
+* Anonymization of datasets to remove company information
+* Synthetic datasets which match the characteristics of real data
+
 To contribute towards advances of knowledge, the workshop solicits original manuscripts from researchers and practitioners who are actively working in Big Data Analytics for Cyber Intelligence and Defense.
 
 ### Paper Format
@@ -79,7 +84,8 @@ Formatting templates:
 
 ### Submission webpage
 
-Please submit your paper through the [paper submission portal](https://wi-lab.com/cyberchair/2020/bigdata20/scripts/submit.php?subarea=S34&undisplay_detail=1&wh=/cyberchair/2020/bigdata20/scripts/ws_submit.php). 
+Please submit your paper through the conference submission portal -- to come soon. 
+[//]: # ([paper submission portal](https://wi-lab.com/cyberchair/2020/bigdata20/scripts/submit.php?subarea=S34&undisplay_detail=1&wh=/cyberchair/2020/bigdata20/scripts/ws_submit.php).) 
 
 [//]: # ([paper submission portal](https://wi-lab.com/cyberchair/2019/bigdata19/scripts/submit.php?subarea=S27&undisplay_detail=1&wh=/cyberchair/2019/bigdata19/scripts/ws_submit.php).)
 
@@ -92,10 +98,10 @@ Please note that the authors of each submitted paper will be expected to review 
 ### Important Dates (TBC)
 
 |-------|-------------------|
-| Oct 26, 2020 | Due date for full workshop papers submission |
-| Nov 1, 2020 |  Notification of paper acceptance to authors |
-| Nov 15,2020 | Camera-ready of accepted papers |
-| Dec 10-13 2020 | Workshop |
+| Oct 1, 2021 | Due date for full workshop papers submission |
+| Nov 1, 2021 |  Notification of paper acceptance to authors |
+| Nov 15,2021 | Camera-ready of accepted papers |
+| Dec 15-18 2021 | Workshop (one day of) |
 
 ### Workshop Program Co-Chairs
 
@@ -107,20 +113,22 @@ United Kingdom
 E-mail : stephen.mcgough@newcastle.ac.uk
 
 Dr Amir Atapour-Abarghouei   
-Researcher
+Lecturer
 School of Computing Science  
 Newcastle University  
 United Kingdom  
 E-mail : Amir.Atapour-Abarghouei@newcastle.ac.uk
 
-Stephen Bonner   
-Researcher
-School of Computing Science  
-Newcastle University  
-United Kingdom  
-E-mail : stephen.bonner3@newcastle.ac.uk
+Prof David Wall
+Professor
+School of Law University of Leeds
+Leeds
+United Kingdom
+E-mail: D.S.Wall@leeds.ac.uk
 
 ### International Technical Committee
+
+To be confirmed
 
 |--|--|
 | William Blanc | Florida Polytechnic University, USA |
