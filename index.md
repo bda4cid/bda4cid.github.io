@@ -6,18 +6,6 @@ layout: default
 ### A Workshop at 2021 IEEE International Conference on Big Data [(IEEE Big Data 2021)](http://bigdataieee.org/BigData2021/)
 December 15th-18th, 2021, Orlando, FL, USA
 
-[//]: # (## 1:30 - 6pm Monday 9th December 2019)
-
-[//]: # (## Tentative workshop programme)
-
-[//]: # (## | Time | Title | Presenter/Author |)
-[//]: # (## |----|:--:|-----|)
-[//]: # (## | 10:45 – 10:50am | Arrivals and welcome | Stephen McGough |
-| 10:50 – 11:20am  | S34201: FlightSense: A Spoofer Detection and Aircraft Identification System using Raw ADS-B Data | Nikita Joseph, Chaity Banerjee, Eduardo Pasiliao, and Tathagata Mukherjee |)
-[//]: # (## | 11:20 – 11:50am | S34202: Rumor Detection on Social Networks: A Sociological Approach | Neelam Jogalekar, Vahida Attar, and Girish Palshikar |)
-[//]: # (## | 11:50 – 12:20pm | S34203: Resolving the cybersecurity Data Sharing Paradox to scale up cybersecurity via a co-production approach towards data sharing | Amir Atapour-Abarghouei, Stephen McGough, and David Wall |)
-[//]: # (## | 12:20 – 12:35pm | BDA4CID Workshop Closing Remarks | Stephen McGough | )
-
 ## Outline
 
 Cyber-attacks have posed real and wide-ranging threats for the information society. Detecting cyber-attacks becomes a challenge, not only because of the sophistication of attacks, but also because of the large scale and complex nature of today’s IT infrastructures.

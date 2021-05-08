@@ -31,3 +31,15 @@ The 2019 International Workshop on Big Data Analytics for Cyber Intelligence and
 | 6:00 – 6:30pm | Anuj@IEEE BigData2019: A Novel Code-Switching Behavior Analysis in Social Media Discussions Natural Language Processing | Anuj/Anuj Saini, Publicis Sapient |
 | 6:30 - 7:00pm | Language Identification and Context-based Analysis of Code-switching Behaviors in Social Media Discussions | Yashvardhan/Akankshya Mishra & Yashvardhan Sharma |
 | 7:00 - 7:00pm | **Closing Remarks** ||
+
+### BDA4CID 2020 at Big Data 2020
+
+The 2020 International Workshop on Big Data Analytics for Cyber Intelligence and Defence (BDA4CID 2020) at the IEEE Big Data 2020 Conference held virtually, continued the success of the workshop with great papers and positive feedback from the audience.
+
+| Time | Title | Presenter/Author |
+|----|:--:|-----|
+| 10:45 – 10:50am | Arrivals and welcome | Stephen McGough |
+| 10:50 – 11:20am  | S34201: FlightSense: A Spoofer Detection and Aircraft Identification System using Raw ADS-B Data | Nikita Joseph, Chaity Banerjee, Eduardo Pasiliao, and Tathagata Mukherjee |
+| 11:20 – 11:50am | S34202: Rumor Detection on Social Networks: A Sociological Approach | Neelam Jogalekar, Vahida Attar, and Girish Palshikar |
+| 11:50 – 12:20pm | S34203: Resolving the cybersecurity Data Sharing Paradox to scale up cybersecurity via a co-production approach towards data sharing | Amir Atapour-Abarghouei, Stephen McGough, and David Wall |
+| 12:20 – 12:35pm | BDA4CID Workshop Closing Remarks | Stephen McGough | 
