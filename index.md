@@ -121,7 +121,8 @@ E-mail : Amir.Atapour-Abarghouei@newcastle.ac.uk
 
 Prof David Wall
 Professor
-School of Law University of Leeds
+School of Law
+University of Leeds
 Leeds
 United Kingdom
 E-mail: D.S.Wall@leeds.ac.uk
