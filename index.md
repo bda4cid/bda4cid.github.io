@@ -99,8 +99,8 @@ Newcastle University
 United Kingdom  
 E-mail : stephen.mcgough@newcastle.ac.uk
 
-Dr Amir Atapour-Abarghouei
-Lecturer
+Dr Amir Atapour-Abarghouei  
+Lecturer  
 School of Computing Science  
 Newcastle University  
 United Kingdom  
