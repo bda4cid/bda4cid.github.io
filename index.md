@@ -97,14 +97,14 @@ Senior Lecturer
 School of Computing Science  
 Newcastle University  
 United Kingdom  
-E-mail : stephen.mcgough@newcastle.ac.uk
+E-mail : <stephen.mcgough@newcastle.ac.uk>
 
 Dr Amir Atapour-Abarghouei  
 Lecturer  
 School of Computing Science  
 Newcastle University  
 United Kingdom  
-E-mail : amir.atapour-abarghouei@newcastle.ac.uk
+E-mail : <amir.atapour-abarghouei@newcastle.ac.uk>
 
 Prof David Wall   
 Professor   
@@ -112,7 +112,7 @@ School of Law
 University of Leeds   
 Leeds   
 United Kingdom   
-E-mail: d.s.wall@leeds.ac.uk   
+E-mail: <d.s.wall@leeds.ac.uk>   
 
 ### International Technical Committee
 
