@@ -99,12 +99,12 @@ Newcastle University
 United Kingdom  
 E-mail : stephen.mcgough@newcastle.ac.uk
 
-Dr Amir Atapour-Abarghouei   
+Dr Amir Atapour-Abarghouei
 Lecturer
 School of Computing Science  
 Newcastle University  
 United Kingdom  
-E-mail : Amir.Atapour-Abarghouei@newcastle.ac.uk
+E-mail : amir.atapour-abarghouei@newcastle.ac.uk
 
 Prof David Wall   
 Professor   
@@ -112,7 +112,7 @@ School of Law
 University of Leeds   
 Leeds   
 United Kingdom   
-E-mail: D.S.Wall@leeds.ac.uk   
+E-mail: d.s.wall@leeds.ac.uk   
 
 ### International Technical Committee
 
@@ -124,5 +124,5 @@ To be confirmed
 | Matthew Forshaw | Newcastle University, UK |
 | Phil Jackson | Newcastle University, UK |
 | Amirreza Niakanlahiji | University of Illinois at Springfield, USA |
-| Nik Khadijah Nik Aznan | Durham University, UK |
+| Nik Khadijah Nik Aznan | Newcastle University, UK |
 
