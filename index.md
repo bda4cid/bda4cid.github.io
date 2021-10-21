@@ -72,9 +72,7 @@ Formatting templates:
 
 ### Submission webpage
 
-Please submit your paper through the conference submission portal -- to come soon. 
-
-[//]: # ([paper submission portal](https://wi-lab.com/cyberchair/2019/bigdata19/scripts/submit.php?subarea=S27&undisplay_detail=1&wh=/cyberchair/2019/bigdata19/scripts/ws_submit.php).)
+Please submit your paper through the conference submission portal -- ([paper submission portal](https://wi-lab.com/cyberchair/2021/bigdata21/scripts/submit.php?subarea=S35&undisplay_detail=1&wh=/cyberchair/2021/bigdata21/scripts/ws_submit.php).)
 
 ### Review Process
 
@@ -82,11 +80,11 @@ Each submission will be peer reviewed by at least 2 peers.
 
 Please note that the authors of each submitted paper will be expected to review one other paper.
 
-### Important Dates (TBC)
+### Important Dates (All dates now firm)
 
 |-------|-------------------|
-| Oct 1, 2021 | Due date for full workshop papers submission |
-| Nov 1, 2021 |  Notification of paper acceptance to authors |
+| Nov 1, 2021 | Due date for full workshop papers submission |
+| Nov 7, 2021 |  Notification of paper acceptance to authors |
 | Nov 15,2021 | Camera-ready of accepted papers |
 | Dec 15-18 2021 | Workshop (one day of) |
 
