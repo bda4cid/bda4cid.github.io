@@ -4,7 +4,7 @@ layout: default
 ## BDA4CID 2021 
 
 ### A Workshop at 2021 IEEE International Conference on Big Data [(IEEE Big Data 2021)](http://bigdataieee.org/BigData2021/)
-December 15th-18th, 2021, Orlando, FL, USA
+December 15th-18th, 2021, Virtual Workshop
 
 ## Outline
 
