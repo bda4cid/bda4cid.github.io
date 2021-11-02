@@ -83,7 +83,7 @@ Please note that the authors of each submitted paper will be expected to review 
 ### Important Dates (All dates now firm)
 
 |-------|-------------------|
-| Nov 1, 2021 | Due date for full workshop papers submission |
+| Please contact us | Due date for full workshop papers submission |
 | Nov 7, 2021 |  Notification of paper acceptance to authors |
 | Nov 15,2021 | Camera-ready of accepted papers |
 | Dec 15-18 2021 | Workshop (one day of) |
