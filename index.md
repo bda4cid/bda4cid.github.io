@@ -6,7 +6,16 @@ layout: default
 ### A Workshop at 2021 IEEE International Conference on Big Data [(IEEE Big Data 2021)](http://bigdataieee.org/BigData2021/)
 December 15th, 2021, Virtual Workshop
 
-
+| Time    | Title               | Presenter / Authors | 
+| ------- | ------------------- | --------------------|
+| 14:35 – 14:45 | Introduction to Workshop | Stephen McGough, Amir Atapour-Abarghouei, David Wall |
+| 14:45 – 15:10 | A review of recent advances in machine learning approaches for cyber defense (BigD525) | __Ricardo Buettner__, Daniel Sauter, Jonas Klopfer, Johannes Breitenbach, and Hermann Baumgartl | 
+| 15:10 – 15:35 | Transforming Fake News: Robust Generalisable News Classification Using Transformers (BigD422) | __Ciara Blackledge__ and Amir Atapour-Abarghouei |
+| 15:35 – 15:55 | Coffee Break ||
+| 15:55 – 16:20 | Rank over Class: The Untapped Potential of Ranking in Natural Language Processing (BigD278) | __Amir Atapour-Abarghouei__, Stephen Bonner, and Andrew Stephen McGough | 
+| 16:20 – 16:45 | “Just Drive”: Colour Bias Mitigation for Semantic Segmentation in the Context of Urban Driving (S35201) | __Jack Stelling__ and Amir Atapour-Abarghouei |
+| 16:45 – 17:10 | Round Table: What is the future of Big Data and Cyber Intelligence and Defence? | All |
+| 17:10 – 17:30 | Closing Remarks | |
 
 ## Outline
 
