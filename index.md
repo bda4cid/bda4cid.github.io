@@ -6,6 +6,9 @@ layout: default
 ### A Workshop at 2021 IEEE International Conference on Big Data [(IEEE Big Data 2021)](http://bigdataieee.org/BigData2021/)
 December 15th, 2021, Virtual Workshop
 
+# Schedule
+All times: USA Eastern Standard Time
+
 | Time    | Title               | Presenter / Authors | 
 | ------- | ------------------- | --------------------|
 | 14:35 – 14:45 | Introduction to Workshop | Stephen McGough, Amir Atapour-Abarghouei, David Wall |
