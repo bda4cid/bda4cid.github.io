@@ -99,11 +99,11 @@ United Kingdom
 E-mail : <stephen.mcgough@newcastle.ac.uk>
 
 Dr Amir Atapour-Abarghouei  
-Assistant Professor
-Department of Computing Science
-Durham University
-Durham, DH1 3LE
-United Kingdom
+Assistant Professor  
+Department of Computing Science  
+Durham University  
+Durham, DH1 3LE  
+United Kingdom  
 Email: <Amir.Atapour-Abarghouei@durham.ac.uk>  
 
 Prof David Wall   
