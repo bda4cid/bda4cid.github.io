@@ -6,6 +6,8 @@ layout: default
 ### A Workshop at 2022 IEEE International Conference on Big Data [(IEEE Big Data 2022)](http://bigdataieee.org/BigData2022/)
 December 17th - 20th, 2022, Osaka, Japan
 
+Due to numerous requests the deadline has been extended by two weeks.
+
 ## Outline
 
 We’d like to continue the success of the International Workshops on Big Data Analytics for Cyber Intelligence and Defense (BDA4CID 2017) at the IEEE Big Data 2017 Conference in Boston, USA, Big Data Analytics for Cyber Intelligence and Defense (BDA4CID 2018) at the IEEE Big Data 2018 Conference in Seattle, USA, Big Data Analytics for Cyber Intelligence and Defense (BDA4CID 2019) at the IEEE Big Data 2019 Conference in Los Angeles, USA, the Big Data Analytics for Cyber Intellegence and Defence (BDA4CID 2020) held virtually and the Big Data Analytics for Cyber Intellegence and Defence (BDA4CID 2021) held virtually.
@@ -84,7 +86,7 @@ Please note that the authors of each submitted paper will be expected to review 
 ### Important Dates (All dates now firm)
 
 |-------|-------------------|
-| Oct 1, 2022 | Due date for full workshop papers submission |
+| Oct 15, 2022 | Due date for full workshop papers submission |
 | Nov 1, 2022 |  Notification of paper acceptance to authors |
 | Nov 20,2022 | Camera-ready of accepted papers |
 | Dec 17-20 2022 | Workshop (one day of) |
