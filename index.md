@@ -6,7 +6,7 @@ layout: default
 ### A Workshop at 2022 IEEE International Conference on Big Data [(IEEE Big Data 2022)](http://bigdataieee.org/BigData2022/)
 December 17th - 20th, 2022, Osaka, Japan
 
-Due to numerous requests the deadline has been extended by two weeks.
+Due to numerous requests the deadline has been extended to 28/10/2022. Reviews will come in batches.
 
 ## Outline
 
@@ -86,8 +86,8 @@ Please note that the authors of each submitted paper will be expected to review 
 ### Important Dates (All dates now firm)
 
 |-------|-------------------|
-| Oct 15, 2022 | Due date for full workshop papers submission |
-| Nov 1, 2022 |  Notification of paper acceptance to authors |
+| Oct 28, 2022 | Due date for full workshop papers submission |
+| Nov 4, 2022 |  Notification of paper acceptance to authors |
 | Nov 20,2022 | Camera-ready of accepted papers |
 | Dec 17-20 2022 | Workshop (one day of) |
 
