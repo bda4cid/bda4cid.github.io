@@ -92,7 +92,7 @@ Please note that the authors of each submitted paper will be expected to review 
 | Oct 1, 2023 | Due date for full workshop papers submission |
 | Nov 1, 2023 |  Notification of paper acceptance to authors |
 | Nov 20,2023 | Camera-ready of accepted papers |
-| Dec 15-18 2022 | Workshop (one day of) |
+| Dec 15-18 2023 | Workshop (one day of) |
 
 ### Workshop Program Co-Chairs
 
