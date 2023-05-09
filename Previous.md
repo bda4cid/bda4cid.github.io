@@ -59,3 +59,32 @@ Language Processing (BigD278) | __Amir Atapour-Abarghouei__, Stephen Bonner, and
 | 16:20 – 16:45 | “Just Drive”: Colour Bias Mitigation for Semantic Segmentation in the Context of Urban Driving (S35201) | __Jack Stelling__ and Amir Atapour-Abarghouei |
 | 16:45 – 17:10 | Round Table: What is the future of Big Data and Cyber Intelligence and Defence? | All |
 | 17:10 – 17:30 | Closing Remarks | |
+
+### BDA4CID 2022 at Big Data 2022
+
+The 2022 International Workshop on Big Data Analytics for Cyber Intelligence and Defence (BDA4CID 2022) at the IEEE Big Data 2022 Conference held virtually, continued the success of the workshop with great papers and positive feedback from the audience.
+
+Day 1:
+
+| Time    | Title               | Presenter / Authors |
+| ------- | ------------------- | --------------------|
+| 08:00 – 08:20 |	Introduction to Physical workshop |	Stephen McGough |
+| 08:20 – 08:45	| A User and Entity Behavior Analytics Log Data Set for Anomaly Detection in Cloud Computing | Max Landauer, Florian Skopik, Georg Hoeld, and Markus Wurzenberger |
+| 08:45 – 09:10 |	Building Cybersecurity Ontology for Understanding and Reasoning Adversary Tactics and Techniques | Chiao-Cheng Huang, Pei-Yu Huang, Ying-Ren Kuo, Guo-Wei Wong, Yi-Ting Huang, Yeali S. Sun, and Meng Chang Chen |
+| 09:10 – 09:35 | Simple and Efficient Identification of Personally Identifiable Information on Public Website | Caitlin Brown and Charles Morisset |
+| 09:35 – 10:00	| Factor Detection Task of Cyberbullying Using the Deep Learning Model | Yu-Hsuan Wu, Sheng-Wei Huang, Wei-Yi Chung, Chen-Chia Yu, and Jheng-Long Wu |
+| 10:00 – 10:30 | Coffee Break | | 
+
+Day 2:
+
+| Time    | Title               | Presenter / Authors |
+| ------- | ------------------- | --------------------|
+| 10:30 – 10:55 | Fraud Detection Using Optimized Machine Learning Tools Under Imbalance Classes | Mary Isangediok and Kelum Gajamannage | 
+| 11:20 – 11:45 | MATE: Summarizing Alerts to Interpretable Outcomes with MITRE ATT&CK | Derek Lin |
+| 11:45 – 12:10 | Cross-Lingual Propaganda Detection | Wenshan Zhang and Xi Zhang |
+| 12:10 – 12:35 | Federated Learning Attacks and Defenses: A Survey | Yao Chen, Yijie Gui, Hong Lin, Wensheng Gan, and Yongdong Wu |
+| 12:35 – 14:00 | Lunch Break | | 
+| 14:00 – 14:25 | Fast Illegal Webpage Detection Algorithm Based on Massive Domain Name Resolution Records | Yue Su, Botao Peng, and Xiaodong Li |
+| 14:50 – 15:15 | Analysis of Label-Flip Poisoning Attack on Machine Learning Based Malware Detector | Kshitiz Aryal, Maanak Gupta, and Mahmoud Abdelsalam |
+| 17:20 – 17:45 | Improving conversational recommender systems via knowledge graph-based semantic fusion with historical interaction data | Thamizhiniyan Pugazhenthi and Huizhi Liang |
+| 17:45 – 18:10 | Threat Modeling for Machine Learning-Based Network Intrusion Detection Systems | Huda Ali Alatwi and Charles Morisset |
