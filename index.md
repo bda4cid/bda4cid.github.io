@@ -1,16 +1,16 @@
 ---
 layout: default
 ---
-## BDA4CID 2022 
+## BDA4CID 2023 
 
-### A Workshop at 2022 IEEE International Conference on Big Data [(IEEE Big Data 2022)](http://bigdataieee.org/BigData2022/)
-December 17th - 20th, 2022, Osaka, Japan
+### A Workshop at 2023 IEEE International Conference on Big Data [(IEEE Big Data 2023)](http://bigdataieee.org/BigData2023/)
+December 15th - 18th, 2023, Sorrento, Italy
 
 Due to numerous requests the deadline has been extended to 28/10/2022. Reviews will come in batches.
 
 ## Outline
 
-We’d like to continue the success of the International Workshops on Big Data Analytics for Cyber Intelligence and Defense (BDA4CID 2017) at the IEEE Big Data 2017 Conference in Boston, USA, Big Data Analytics for Cyber Intelligence and Defense (BDA4CID 2018) at the IEEE Big Data 2018 Conference in Seattle, USA, Big Data Analytics for Cyber Intelligence and Defense (BDA4CID 2019) at the IEEE Big Data 2019 Conference in Los Angeles, USA, the Big Data Analytics for Cyber Intellegence and Defence (BDA4CID 2020) held virtually and the Big Data Analytics for Cyber Intellegence and Defence (BDA4CID 2021) held virtually.
+We’d like to continue the success of the International Workshops on Big Data Analytics for Cyber Intelligence and Defense (BDA4CID 2017) at the IEEE Big Data 2017 Conference in Boston, USA, Big Data Analytics for Cyber Intelligence and Defense (BDA4CID 2018) at the IEEE Big Data 2018 Conference in Seattle, USA, Big Data Analytics for Cyber Intelligence and Defense (BDA4CID 2019) at the IEEE Big Data 2019 Conference in Los Angeles, USA, the Big Data Analytics for Cyber Intellegence and Defence (BDA4CID 2020) held virtually and the Big Data Analytics for Cyber Intellegence and Defence (BDA4CID 2021) held virtually, and the Big Data Analytics for Cyber Intellegence and Defence (BDA4CID 2022) Osaka, Japan.
 
 Cyber-attacks have posed real and wide-ranging threats for the information society. Detecting cyber-attacks becomes a challenge, not only because of the sophistication of attacks, but also because of the large scale and complex nature of today’s IT infrastructures.
 
@@ -75,7 +75,10 @@ Formatting templates:
 
 ### Submission webpage
 
+Details will appear shortly
+<!---
 Please submit your papers through the conference submission system [here](https://wi-lab.com/cyberchair/2022/bigdata22/scripts/submit.php?subarea=S29&undisplay_detail=1&wh=/cyberchair/2022/bigdata22/scripts/ws_submit.php).
+--->
 
 ### Review Process
 
@@ -86,10 +89,10 @@ Please note that the authors of each submitted paper will be expected to review 
 ### Important Dates (All dates now firm)
 
 |-------|-------------------|
-| Oct 28, 2022 | Due date for full workshop papers submission |
-| Nov 4, 2022 |  Notification of paper acceptance to authors |
-| Nov 20,2022 | Camera-ready of accepted papers |
-| Dec 17-20 2022 | Workshop (one day of) |
+| Oct 1, 2023 | Due date for full workshop papers submission |
+| Nov 1, 2023 |  Notification of paper acceptance to authors |
+| Nov 20,2023 | Camera-ready of accepted papers |
+| Dec 15-18 2022 | Workshop (one day of) |
 
 ### Workshop Program Co-Chairs
 
