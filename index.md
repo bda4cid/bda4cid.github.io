@@ -6,7 +6,7 @@ layout: default
 ### A Workshop at 2023 IEEE International Conference on Big Data [(IEEE Big Data 2023)](http://bigdataieee.org/BigData2023/)
 December 15th - 18th, 2023, Sorrento, Italy
 
-Due to numerous requests the deadline has been extended to 28/10/2022. Reviews will come in batches.
+<!--- Due to numerous requests the deadline has been extended to 28/10/2022. Reviews will come in batches.--->
 
 ## Outline
 
