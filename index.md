@@ -75,10 +75,9 @@ Formatting templates:
 
 ### Submission webpage
 
-Details will appear shortly
-<!---
-Please submit your papers through the conference submission system [here](https://wi-lab.com/cyberchair/2022/bigdata22/scripts/submit.php?subarea=S29&undisplay_detail=1&wh=/cyberchair/2022/bigdata22/scripts/ws_submit.php).
+<!--- Details will appear shortly
 --->
+Please submit your papers through the conference submission system [here](https://wi-lab.com/cyberchair/2023/bigdata23/scripts/submit.php?subarea=S26&undisplay_detail=1&wh=/cyberchair/2023/bigdata23/scripts/ws_submit.php).
 
 ### Review Process
 
