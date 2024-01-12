@@ -8,6 +8,22 @@ December 15th - 18th, 2023, Sorrento, Italy
 
 <!--- Due to numerous requests the deadline has been extended to 28/10/2022. Reviews will come in batches.--->
 
+## Final Programme:
+
+| Time           | Title                     | Authors        |
+|----------------|---------------------------|----------------|
+| 8\:00 - 8\:20  | Welcome                   | Chairs         |
+| 8\:20 - 8\:45  | Exploring the Distinctive Tweeting Patterns of Toxic Twitter Users | Hina Qayyum, Muhammad Ikram, Benjamin Exploring the Distinctive Tweeting Patterns of Toxic Twitter Users Zi Hao Zhao, Ian Wood, Nicolas Kourtellis, and Mohamed Ali Kaafar |
+| 8\:45 - 9:10   | On mission Twitter Profiles: A Study of Selective Toxic Behavior | Hina Qayyum, Muhammad Ikram, Benjamin Zi Hao Zhao, Ian Wood, Nicolas Kourtellis, and Mohamed Ali Kaafar |
+| 9\:10 - 9:35   | Improving Cybersecurity Awareness: Tweet Classification using Multilingual Sentence Embeddings and Contextual Features | Anastasia Cotov, Carlo Bono, Cinzia Cappiello, and Barbara Pernici | 
+| 9\:35 - 10:00  | Clean-label Poisoning Attack against Fake News Detection Models | Jiayi Liang, Xi Zhang, Yuming Shang, Sanchuan Guo, and Chaozhuo Li | 
+| 10\:00 - 10:20 | Coffee Break              |                |
+| 10\:20 - 10:45 | Defending Federated Learning Against Model Poisoning Attacks | Ibraheem Aloran and Saeed Samet | 
+| 10\:45 - 11:10 | A Cascade CNN Model based on Adaptive Learning Rate Thresholding for Reliable Face Recognition | Imen Labiadh, Larbi Boubchir, and Hassene Seddik |
+| 11\:10 - 11:35 | Transformer-based LLMs in Cybersecurity: An in-depth Study on Log Anomaly Detection and Conversational Defense Mechanisms | Prasasthy Balasubramanian, Justin Seby, and Panos Kostakos | 
+| 11\:35 - 12:00 | Complementary Attention-Based Deep Learning Detection of Fake Faces | Supriyo Sadhya and Xiaojun Qi |
+| 12\:00 - 12:15 | Closing Remarks           |                 |
+
 ## Outline
 
 We’d like to continue the success of the International Workshops on Big Data Analytics for Cyber Intelligence and Defense (BDA4CID 2017) at the IEEE Big Data 2017 Conference in Boston, USA, Big Data Analytics for Cyber Intelligence and Defense (BDA4CID 2018) at the IEEE Big Data 2018 Conference in Seattle, USA, Big Data Analytics for Cyber Intelligence and Defense (BDA4CID 2019) at the IEEE Big Data 2019 Conference in Los Angeles, USA, the Big Data Analytics for Cyber Intellegence and Defence (BDA4CID 2020) held virtually and the Big Data Analytics for Cyber Intellegence and Defence (BDA4CID 2021) held virtually, and the Big Data Analytics for Cyber Intellegence and Defence (BDA4CID 2022) Osaka, Japan.
