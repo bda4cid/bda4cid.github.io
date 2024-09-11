@@ -3,26 +3,8 @@ layout: default
 ---
 ## BDA4CID 2023 
 
-### A Workshop at 2023 IEEE International Conference on Big Data [(IEEE Big Data 2023)](http://bigdataieee.org/BigData2023/)
-December 15th - 18th, 2023, Sorrento, Italy
-
-<!--- Due to numerous requests the deadline has been extended to 28/10/2022. Reviews will come in batches.--->
-
-## Final Programme:
-
-| Time           | Title                     | Authors        |
-|----------------|---------------------------|----------------|
-| 8\:00 - 8\:20  | Welcome                   | Chairs         |
-| 8\:20 - 8\:45  | Exploring the Distinctive Tweeting Patterns of Toxic Twitter Users | Hina Qayyum, Muhammad Ikram, Benjamin Exploring the Distinctive Tweeting Patterns of Toxic Twitter Users Zi Hao Zhao, Ian Wood, Nicolas Kourtellis, and Mohamed Ali Kaafar |
-| 8\:45 - 9:10   | On mission Twitter Profiles: A Study of Selective Toxic Behavior | Hina Qayyum, Muhammad Ikram, Benjamin Zi Hao Zhao, Ian Wood, Nicolas Kourtellis, and Mohamed Ali Kaafar |
-| 9\:10 - 9:35   | Improving Cybersecurity Awareness: Tweet Classification using Multilingual Sentence Embeddings and Contextual Features | Anastasia Cotov, Carlo Bono, Cinzia Cappiello, and Barbara Pernici | 
-| 9\:35 - 10:00  | Clean-label Poisoning Attack against Fake News Detection Models | Jiayi Liang, Xi Zhang, Yuming Shang, Sanchuan Guo, and Chaozhuo Li | 
-| 10\:00 - 10:20 | Coffee Break              |                |
-| 10\:20 - 10:45 | Defending Federated Learning Against Model Poisoning Attacks | Ibraheem Aloran and Saeed Samet | 
-| 10\:45 - 11:10 | A Cascade CNN Model based on Adaptive Learning Rate Thresholding for Reliable Face Recognition | Imen Labiadh, Larbi Boubchir, and Hassene Seddik |
-| 11\:10 - 11:35 | Transformer-based LLMs in Cybersecurity: An in-depth Study on Log Anomaly Detection and Conversational Defense Mechanisms | Prasasthy Balasubramanian, Justin Seby, and Panos Kostakos | 
-| 11\:35 - 12:00 | Complementary Attention-Based Deep Learning Detection of Fake Faces | Supriyo Sadhya and Xiaojun Qi |
-| 12\:00 - 12:15 | Closing Remarks           |                 |
+### A Workshop at 2024 IEEE International Conference on Big Data [(IEEE Big Data 2024)](http://bigdataieee.org/BigData2024/)
+December 15th - 18th, 2024, Washington DC, USA
 
 ## Outline
 
@@ -104,10 +86,10 @@ Please note that the authors of each submitted paper will be expected to review 
 ### Important Dates (All dates now firm)
 
 |-------|-------------------|
-| please contact us | Due date for full workshop papers submission |
-| Nov 1, 2023 |  Notification of paper acceptance to authors |
-| Nov 20,2023 | Camera-ready of accepted papers |
-| Dec 15-18 2023 | Workshop (one day of) |
+| Oct 1, 2024 | Due date for full workshop papers submission |
+| Nov 1, 2024 |  Notification of paper acceptance to authors |
+| Nov 20,2024 | Camera-ready of accepted papers |
+| Dec 15-18 2024 | Workshop (one day of) |
 
 ### Workshop Program Co-Chairs
 
