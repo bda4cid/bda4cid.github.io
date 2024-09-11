@@ -88,3 +88,23 @@ Day 2:
 | 14:50 – 15:15 | Analysis of Label-Flip Poisoning Attack on Machine Learning Based Malware Detector | Kshitiz Aryal, Maanak Gupta, and Mahmoud Abdelsalam |
 | 17:20 – 17:45 | Improving conversational recommender systems via knowledge graph-based semantic fusion with historical interaction data | Thamizhiniyan Pugazhenthi and Huizhi Liang |
 | 17:45 – 18:10 | Threat Modeling for Machine Learning-Based Network Intrusion Detection Systems | Huda Ali Alatwi and Charles Morisset |
+
+
+### BDA4CID 2023 at Big Data 2023
+
+The 2023 International Workshop on Big Data Analytics for Cyber Intelligence and Defence (BDA4CID 2023) at the IEEE Big Data 2023 Conference Sorrento, Italy, continued the success of the workshop with great papers and positive feedback from the audience.
+
+
+| Time           | Title                     | Authors        |
+|----------------|---------------------------|----------------|
+| 8\:00 - 8\:20  | Welcome                   | Chairs         |
+| 8\:20 - 8\:45  | Exploring the Distinctive Tweeting Patterns of Toxic Twitter Users | Hina Qayyum, Muhammad Ikram, Benjamin Exploring the Distinctive Tweeting Patterns of Toxic Twitter Users Zi Hao Zhao, Ian Wood, Nicolas Kourtellis, and Mohamed Ali Kaafar |
+| 8\:45 - 9:10   | On mission Twitter Profiles: A Study of Selective Toxic Behavior | Hina Qayyum, Muhammad Ikram, Benjamin Zi Hao Zhao, Ian Wood, Nicolas Kourtellis, and Mohamed Ali Kaafar |
+| 9\:10 - 9:35   | Improving Cybersecurity Awareness: Tweet Classification using Multilingual Sentence Embeddings and Contextual Features | Anastasia Cotov, Carlo Bono, Cinzia Cappiello, and Barbara Pernici | 
+| 9\:35 - 10:00  | Clean-label Poisoning Attack against Fake News Detection Models | Jiayi Liang, Xi Zhang, Yuming Shang, Sanchuan Guo, and Chaozhuo Li | 
+| 10\:00 - 10:20 | Coffee Break              |                |
+| 10\:20 - 10:45 | Defending Federated Learning Against Model Poisoning Attacks | Ibraheem Aloran and Saeed Samet | 
+| 10\:45 - 11:10 | A Cascade CNN Model based on Adaptive Learning Rate Thresholding for Reliable Face Recognition | Imen Labiadh, Larbi Boubchir, and Hassene Seddik |
+| 11\:10 - 11:35 | Transformer-based LLMs in Cybersecurity: An in-depth Study on Log Anomaly Detection and Conversational Defense Mechanisms | Prasasthy Balasubramanian, Justin Seby, and Panos Kostakos | 
+| 11\:35 - 12:00 | Complementary Attention-Based Deep Learning Detection of Fake Faces | Supriyo Sadhya and Xiaojun Qi |
+| 12\:00 - 12:15 | Closing Remarks           |                 |
