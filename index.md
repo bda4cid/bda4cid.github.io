@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## BDA4CID 2023 
+## BDA4CID 2024 
 
 ### A Workshop at 2024 IEEE International Conference on Big Data [(IEEE Big Data 2024)](http://bigdataieee.org/BigData2024/)
 December 15th - 18th, 2024, Washington DC, USA
