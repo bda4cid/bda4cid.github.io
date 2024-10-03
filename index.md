@@ -86,7 +86,7 @@ Please note that the authors of each submitted paper will be expected to review 
 ### Important Dates (All dates now firm)
 
 |-------|-------------------|
-| Oct 1, 2024 | Due date for full workshop papers submission |
+| Oct 14, 2024 | Due date for full workshop papers submission |
 | Nov 1, 2024 |  Notification of paper acceptance to authors |
 | Nov 20,2024 | Camera-ready of accepted papers |
 | Dec 15-18 2024 | Workshop (one day of) |
