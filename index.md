@@ -4,7 +4,10 @@ layout: default
 ## BDA4CID 2024 
 
 ### A Workshop at 2024 IEEE International Conference on Big Data [(IEEE Big Data 2024)](http://bigdataieee.org/BigData2024/)
-December 15th - 18th, 2024, Washington DC, USA
+December 15th - 18th, 2024, Online (Washington DC, USA)
+
+## Online this year
+Dear All, due to personal circumstances we are making this workshop Online this year. We hope this doesn't discourage you from submitting your work.
 
 ## Outline
 
