@@ -72,7 +72,7 @@ Papers should be formatted using the two column IEEE CS template and can be up t
 Formatting templates:
  * Word [Doc File](http://bigdataieee.org/BigData2022/files/Conference-template-letter.doc)
  * [PDF](http://bigdataieee.org/BigData2022/files/IEEEtran_HOWTO.pdf) example
- * [LaTeX](http://bigdataieee.org/BigData2022/files/Conference-LaTeX-template_7-9-18.zip) templates
+ * [LaTeX](https://www.ieee.org/conferences/publishing/templates.html) templates
 
 ### Submission webpage
 
