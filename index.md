@@ -6,6 +6,18 @@ layout: default
 ### A Workshop at 2024 IEEE International Conference on Big Data [(IEEE Big Data 2024)](http://bigdataieee.org/BigData2024/)
 December 15th - 18th, 2024, Online (Washington DC, USA)
 
+## Final Programme - 16th Decemner 2024
+All online - Times are for Washington DC
+
+| Time             | Title                     | Authors        |
+|------------------|---------------------------|----------------|
+| 08:\15 - 08\:20	 | Welcome and introductions | Stephen McGough, Matthew Forshaw and Amir Atapour-Abarghouei |
+| 08\:20 - 08\:50	 | Deepfake Detection with Wavelet-Integrated Convolutional Networks | Supriyo Sadhya and Xiaojun Qi |
+| 08\:50 - 09\:20	 | Hex2Sign: Automatic IDS Signature Generation from Hexadecimal Data using LLMs | Prasasthy Balasubramanian, Tarek Ali, Mohammad Salmani, Danial KhoshKholgh, and Panos Kostakos |
+| 09\:20 - 09\:50  | Online Signature Processing for Biometric User Authentication and Identification | Mohamed Alae-Eddine Eladlani, Larbi Boubchir, and Khadidja Benallou | 
+| 09\:50 - 10\:00	 | Closing Remarks | | 
+| 10\:00 - 10\:30	 | Coffee Break | |  
+
 ## Online this year
 Dear All, due to personal circumstances we are making this workshop Online this year. We hope this doesn't discourage you from submitting your work.
 
