@@ -11,7 +11,7 @@ All online - Times are for Washington DC
 
 | Time             | Title                     | Authors        |
 |------------------|---------------------------|----------------|
-| 08:\15 - 08\:20	 | Welcome and introductions | Stephen McGough, Matthew Forshaw and Amir Atapour-Abarghouei |
+| 08\:15 - 08\:20	 | Welcome and introductions | Stephen McGough, Matthew Forshaw and Amir Atapour-Abarghouei |
 | 08\:20 - 08\:50	 | Deepfake Detection with Wavelet-Integrated Convolutional Networks | Supriyo Sadhya and Xiaojun Qi |
 | 08\:50 - 09\:20	 | Hex2Sign: Automatic IDS Signature Generation from Hexadecimal Data using LLMs | Prasasthy Balasubramanian, Tarek Ali, Mohammad Salmani, Danial KhoshKholgh, and Panos Kostakos |
 | 09\:20 - 09\:50  | Online Signature Processing for Biometric User Authentication and Identification | Mohamed Alae-Eddine Eladlani, Larbi Boubchir, and Khadidja Benallou | 
